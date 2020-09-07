@@ -1,5 +1,5 @@
 package ru.mirea.praktika;
-/*Толстов Александр Сергеевич Практика ИКБО-10-19*/
+/*Толстов Александр Сергеевич Практика ИКБО-03-19*/
 public class TestProgramm {
     public static void main(String[] args){
        dog pes=new dog();//1st constructor
