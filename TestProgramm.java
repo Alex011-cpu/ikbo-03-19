@@ -2,11 +2,11 @@ package ru.mirea.praktika;
 /*Толстов Александр Сергеевич Практика ИКБО-03-19*/
 public class TestProgramm {
     public static void main(String[] args){
-       dog pes=new dog();//1st constructor
+       Dogs pes=new Dogs();//1st constructor
        System.out.println(pes.toString());
-       dog pes1=new dog(2);
+       Dogs pes1=new Dogs(2);
        System.out.println(pes1.toString());
-       dog pes2=new dog(3,"Strelka");
+       Dogs pes2=new Dogs(3,"Strelka");
        System.out.println(pes2.toString());
        Ball myach=new Ball();
        System.out.println(myach.toString());
